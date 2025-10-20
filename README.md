@@ -1,3 +1,11 @@
+## About the Instructor
+
+I hold a Bachelor's degree in Physics and a Master's degree in Computational Science. I have been teaching programming since 2012, starting with LaTeX courses, then expanding to Python and LaTeX, and eventually focusing exclusively on Python instruction.
+
+I currently teach both an introductory Python course and an intermediate Python course, catering to students at different stages of their programming journey.
+
+My technical expertise spans multiple programming languages and frameworks, including Python, C++, and TypeScript (with React). This diverse background allows me to bring a comprehensive perspective to Python teaching, drawing connections between different programming paradigms and best practices.
+
 ## Possible Material
 
 1. Fundamental Concepts
